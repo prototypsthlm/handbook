@@ -5,7 +5,7 @@ Here you will find the most important information about the company, your perks 
 
 # Sections
 1. [Roles](Roles.md)
-2. At the office
+2. [At the office] (At the office.md)
 3. Tools
 4. Healthcare
 5. Education
