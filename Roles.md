@@ -15,7 +15,7 @@ As Business-lead, your mission is to find and sell projects that are fun and sti
 sessions. That’s why the business-lead is the person who perhaps spends the least time at the office.
 
 ## Office manager
-To make sure that the daily stuff at the office runs smoothly, we have Bøb (Bjørn- Øyvind). Bøb makes sure that we have everything we need in terms of office supplies, fika, equipment and so on. He will also make sure that the office stays a nice place to hang out.
+To make sure that the daily stuff at the office runs smoothly, we have an office manager that comes in twice a week. The office manager makes sure that we have everything we need in terms of office supplies, fika, equipment and so on. He will also make sure that the office stays a nice place to hang out.
 
 ## CEO
 As CEO of Prototyp, you are responsible for making sure that Prototyp stays alive and well. You do this by making sure that the company has sound finances, that employees are happy and feel that they can develop in their respective roles within the company, and through continuous development of Prototyp as a company. The CEO is also manager for all other Prototyp employees, as well as legally responsible for the company.
