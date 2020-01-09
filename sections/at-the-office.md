@@ -9,9 +9,10 @@ We like coffee, and we like Dave Grohl. You’re welcome to make a fresh pot any
 
 ## Keys
 You’ll get two keys to the office. The one which serial no. ends with 849 gives access to all doors leading to the office, including the elevator. The other key (ending with 403) gives access to the gate at street level and also enables you to use the elevator outside of office hours (there’s a keyhole by the buttons, turn the key while pressing the button).
- If you’re the last to leave the office, make sure that all doors (including the one on floor 5) are locked, and that the elevator door is locked with the padlock that you can find on the kitchen counter to the left of the elevator doors.
 
-##Recycling
+If you’re the last to leave the office, make sure that all doors (including the one on floor 5) are locked, and that the elevator door is locked with the padlock that you can find on the kitchen counter to the left of the elevator doors.
+
+## Recycling
 There are recycling bins for plastic, metal, glass, cartons and aluminium cans in the cabinets under the microwave ovens. Non-recyclables go in the bin in the kitchen area.
 Equipment
 
