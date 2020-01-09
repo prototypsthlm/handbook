@@ -15,7 +15,7 @@ If you’re the last to leave the office, make sure that all doors (including th
 ## Recycling
 There are recycling bins for plastic, metal, glass, cartons and aluminium cans in the cabinets under the microwave ovens. Non-recyclables go in the bin in the kitchen area.
 
-##Equipment
+## Equipment
 As an Prototyp employee, you should have the following equipment:
 * Monitor (optional)
 * Computer (an Apple laptop, if your work tasks don’t require something else)
