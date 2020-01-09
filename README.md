@@ -4,7 +4,7 @@ Welcome to Prototyp! Before joining the team, you should read through every sect
 Here you will find the most important information about the company, your perks and possibilites as an employee, but also what we expect of you when you're wearing the proverbial Prototyp cap.
 
 # Sections
-1. Roles
+1. [Roles](Roles.md)
 2. At the office
 3. Tools
 4. Healthcare
