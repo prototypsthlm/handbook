@@ -27,6 +27,6 @@ wise)
 
 We replace our phones and computers when needed, but at the earliest after three (3) years of use.
 
-## Telness
+## Phone contract
 All employees are offered a 10 Gb/month mobile subscription with Telness, which is paid by Prototyp. You can either choose to port your current number to Telness (don't worry, you can always get it back), or get a new number.
 You can, of course, choose to use another mobile operator, but unless you have a very good reason to do so, Prototyp will not pay for the contract.
