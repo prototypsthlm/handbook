@@ -13,14 +13,16 @@ When it comes to the daily communication at Prototyp, we prefer Slack before e- 
 
 ## Harvest
 We use Harvest for project management, time reporting and billing. The general rule is: every week you should have 40h of time reported.
-• Report the hours you work every day (so your Tech Lead can keep track of budgets and handle billing easily)
-• Report time-off like sick leave, parental leave, vacation or approved leave of absence.
+* Report the hours you work every day (so your Tech Lead can keep track of budgets and handle billing easily)
+* Report time-off like sick leave, parental leave, vacation or approved leave of absence.
 As part of your on-boarding, somebody will be tasked to get you up to speed on how we do report our time.
+
 [http://prototyp.harvestapp.com](http://prototyp.harvestapp.com)
 
 ## Forecast
 We use Forecast for resource planning and reporting absence.
 For Forecast to work optimally, all users need to have read/write rights, but projects are mainly planned by tech-leads, so avoid editing planned time on your own.
+
 [http://prototyp.forecastapp.com](http://prototyp.forecastapp.com)
 
 ## Google Drive
@@ -35,7 +37,8 @@ To access Highfive via your web browser, use the address prototyp- se.highfive.c
 You can also start video meetings in Slack channels with the command /highfive.
 
 ## G Suite (formerly Google Apps)
-We use G Suite for e-mail, calendars and file storage. Everyone has access to everyone’s calendars, this to make it easier to find meeting times that work for everyone. This also means that you should give private events an extra thought before entering them into the work calendar.
+We use G Suite for e-mail, calendars and file storage. Everyone has access to everyone’s calendars, this to make it easier to find meeting times that work for everyone. This also means that you should give private events an extra thought before entering them into the work calendar. R
+
 Regarding file storage: in early 2019, we started the process of moving away from Dropbox. The goal is to store all company-wide files in a logical structure on GDrive, but this has taken more time than we initially thought. The goal now is to have completed the move at the end of 2019.
 
 ## Kin.hr
