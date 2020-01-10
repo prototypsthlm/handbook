@@ -10,6 +10,6 @@ Here you will find the most important information about the company, your perks 
 4. [Healthcare & Education](sections/healthcareandeducation.md)
 5. [Expenses](sections/expenses.md)
 6. [Vacation & absence](sections/vacationandabsence.md)
-7. Knowledge sharing
+7. [Knowledge sharing](sections/knowledgesharing.md)
 8. Pension & insurance
 9. Recruitment bonus
