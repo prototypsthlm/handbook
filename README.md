@@ -7,10 +7,9 @@ Here you will find the most important information about the company, your perks 
 1. [Roles](sections/roles.md)
 2. [At the office](sections/at-the-office.md)
 3. [Tools](sections/tools.md)
-4. [Healthcare](sections/healthcare.md)
-5. Education
-6. Expenses
-7. Vacation & absence
-8. Knowledge sharing
-9. Pension & insurance
-10. Recruitment bonus
+4. [Healthcare](sections/healthcareandeducation.md)
+5. Expenses
+6. Vacation & absence
+7. Knowledge sharing
+8. Pension & insurance
+9. Recruitment bonus
