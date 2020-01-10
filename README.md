@@ -11,5 +11,5 @@ Here you will find the most important information about the company, your perks 
 5. [Expenses](sections/expenses.md)
 6. [Vacation & absence](sections/vacationandabsence.md)
 7. [Knowledge sharing](sections/knowledgesharing.md)
-8. Pension & insurance
-9. Recruitment bonus
+8. [Pension & insurance](sections/pensionandinsurance.md)
+9. [Recruitment bonus](sections/recruitmentbonus.md)
