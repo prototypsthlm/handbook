@@ -3,7 +3,8 @@ These are the tools that we use in our daily work. There are of course other too
 
 ## Slack
 When it comes to the daily communication at Prototyp, we prefer Slack before e- mail. Every project has its own channel, but there are also several general channels that it’s good to know about:
-#general Prototyp’s general channel, where you can reach everyone
+  ### #general 
+  Prototyp’s general channel, where you can reach everyone
   ### #random 
   Discussions, random posts and other stuff that’s not important to work tasks
   ### #away 
