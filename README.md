@@ -3,7 +3,7 @@ Welcome to Prototyp! Before joining the team, you should read through every sect
 
 Here you will find the most important information about the company, your perks and possibilites as an employee, but also what we expect of you when you're wearing the proverbial Prototyp cap.
 
-# Sections
+# Employe handbook
 1. [Roles](sections/roles.md)
 2. [At the office](sections/at-the-office.md)
 3. [Tools](sections/tools.md)
@@ -13,3 +13,6 @@ Here you will find the most important information about the company, your perks 
 7. [Knowledge sharing](sections/knowledgesharing.md)
 8. [Pension & insurance](sections/pensionandinsurance.md)
 9. [Recruitment bonus](sections/recruitmentbonus.md)
+
+# Other
+1. [The tech lead role](sections/tech-lead/index.md)
