@@ -54,7 +54,28 @@ stages of the project
 
 ## What are the responsibilities of the roles at Prototyp?
 
-//TODO
+|                                                                           |Tech lead|Developer|Business lead* |
+| ------------------------------------------------------------------------- |:-------:|:-------:|:-------------:|
+|New Sales                                                                  |         |         |x              |
+|Sales Support                                                              |x        |         |               |
+|Tech decisions                                                             |x        |         |               |
+|Estimation                                                                 |x        |x        |               |
+|Writing tenders                                                            |x        |         |x              |
+|Contribute to pitches together with our partner agencies                   |x        |         |               |
+|Negotiating and writing contracts                                          |         |         |x              |
+|Continuously capture requirements (both high-level and detailed)           |x        |         |               |
+|Backlog grooming                                                           |x        |         |               |
+|Sprint planning                                                            |x        |x        |               |
+|Maintain and protect our agile work process (TDD, CRs, CI/CD etc.)         |x        |x        |               |
+|Software architecture                                                      |x        |x        |               |
+|Coding                                                                     |x        |x        |               |
+|Upsales                                                                    |x        |         |x              |
+|Manage customer expectations (and saying **no** to the client)             |x        |         |x              |
+|Keep deadlines and continuously follow up on hours spent/budget remaining  |x        |         |               |
+|Handling contract disputes                                                 |         |         |x              |
+|Maintaining high project quality, delivering things we can be proud of     |x        |x        |x              |
+
+*Busines lead is an umbrella term for Per, Pontus and Tobias B (2020-02-20)    
 
 Below follows detailing for most of the responsibilities from the table above, from a tech lead perspective.
 Each heading could be used as a basis for discussion.
