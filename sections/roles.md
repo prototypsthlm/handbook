@@ -2,7 +2,7 @@
 These are the roles of the employees at Prototyp. We strive to keep things as simple as possible, and most of us write code in one way or another. There, however, a few variations as well as exceptions; and they are explained below.
 
 ## Developer
-Developers are the core of Prototyp. As a developer, you will write lots and lots of code. You will also help out with estimates, quality assurance, technical sanity checks and other stuff that helps us be great at what we do.
+Developers are the core of Prototyp. We believe in an empowered developer-role with more responsibility and more freedom for creativity. As a developer, you will write lots and lots of code. You will also help out with estimates, quality assurance, client meetings, technical sanity checks and other stuff that helps us be great at what we do. You will quickly discover that you have a lot of influence over your own work and impact on the projects you work on.
 
 ## Tech-lead
 At Prototyp, we don’t believe in the middle-man, so we have opted not to have project managers. Instead, for every project, a developer will shoulder the role as tech-lead. As tech-lead, you will make sure that all information needed for the current project to move along at the required pace is available. You will handle communication and meetings with the customers, as well as being shoulder for the other developers in the project to lean on. More about the tech-lead role can be found under [The tech lead role](tech-lead/index.md)
