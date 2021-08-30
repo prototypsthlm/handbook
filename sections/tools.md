@@ -43,4 +43,4 @@ We use G Suite for e-mail, calendars and file storage. Everyone has access to ev
 Regarding file storage: in early 2019, we started the process of moving away from Dropbox. The goal is to store all company-wide files in a logical structure on GDrive, but this has taken more time than we initially thought. The goal now is to have completed the move at the end of 2019.
 
 ## AlexisHR
-As a Prototyp employee, you will be invited to on your private e-mail. We mainly use AlexisHR to keep track of information such as bank account number, home adress etc. 
+As a Prototyp employee, you will be invited to on your private email. We mainly use AlexisHR to keep track of information such as bank account number, home address etc. 
